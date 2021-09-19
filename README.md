@@ -7,3 +7,4 @@ Practice setInterval/conditional ternary operator in a small project.
 1. Go to the chrome://extensions/
 1. Turn on the developer mode.
 1. Load unpacked the folder
+
