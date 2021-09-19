@@ -1,8 +1,9 @@
 # Pomodoro Technique
 
-practice setInterval/conditional ternary operator in a small project.
-Make a plugin later for fun.
+Practice setInterval/conditional ternary operator in a small project.
 
-## Subheader
+## How to install the custom chrome extensions
 
-hello, new branch
+1. Go to the chrome://extensions/
+1. Turn on the developer mode.
+1. Load unpacked the folder
