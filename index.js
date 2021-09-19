@@ -12,7 +12,7 @@ const playBtn = document.getElementById('play')
 let myInterval
 let counting
 let workTimer = 25 * 60
-let shoetTimer = 5 * 60
+let shoetTimer = 0.1 * 60
 let longTimer = 15 * 60
 
 playBtn.disabled = true
