@@ -1,3 +1,4 @@
 # Pomodoro Technique
 
-practice setInterval in a small project
+practice setInterval/conditional ternary operator in a small project.
+Make a plugin later for fun.
